@@ -12,5 +12,6 @@ describe('Pagina de Type', () => {
       .type('john@gmail.com')
       .should('have.value', 'john@gmail.com')
       .clear()
+      //comentario de prueba github autor John
   })
 })
