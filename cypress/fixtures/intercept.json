@@ -1,0 +1,23 @@
+{
+    "get": {
+      "postId": 1,
+      "id": 1,
+      "name": "id labore ex et quam laborum",
+      "email": "Eliseo@gardner.biz",
+      "body": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium"
+    },
+    "post": {
+      "name": "Using POST in cy.intercept()",
+      "email": "hello@cypress.io",
+      "body": "You can change the method used for cy.intercept() to be GET, POST, PUT, PATCH, or DELETE",
+      "id": 501
+    },
+    "put": {
+      "name": "Using PUT in cy.intercept()",
+      "email": "hello@cypress.io",
+      "body": "You can change the method used for cy.intercept() to be GET, POST, PUT, PATCH, or DELETE",
+      "id": 1
+    }
+  }
+  
+  
